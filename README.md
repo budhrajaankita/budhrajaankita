@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **ankita_budhraja@berkeley.edu**
 
-- 📄 Know about my experiences [https://github.com/budhrajaankita/Resume/blob/main/Budhraja.Ankita.pdf](https://github.com/budhrajaankita/Resume/blob/main/Budhraja.Ankita.pdf)
+- 📄 Know about my experiences [here!](https://github.com/budhrajaankita/Resume/blob/main/Budhraja.Ankita.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
