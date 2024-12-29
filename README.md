@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ankita Budhraja!</h1>
 <h3 align="center"></h3>
 
-- 📫 You can reach me at **ankita_budhraja@berkeley.edu**
+- 📫 You can reach me at **budhraja.ankita@gmail.com**
 
 - 📄 Know about my experiences [here!](https://github.com/budhrajaankita/Resume/blob/main/Budhraja.Ankita.pdf)
 
